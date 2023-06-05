@@ -86,13 +86,13 @@ main h2 {
 }
 
 .top {
-    background-image: url('/img/rozwoj.jpg');
+    background-image: url('img/rozwoj.jpg');
 }
 .middle {
-    background-image: url('/img/edukacja.jpg');
+    background-image: url('img/edukacja.jpg');
 }
 .bottom {
-    background-image: url('/img/wiedza.jpg');
+    background-image: url('img/wiedza.jpg');
 }
 
 .about-us-text {
